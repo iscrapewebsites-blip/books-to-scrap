@@ -1,2 +1,2 @@
 # books-to-scrap
-scrapped  title, price and rating of books from books.toscrape.com
+A web scraper that extracts title, price, and rating of books from books.toscrape.com.
